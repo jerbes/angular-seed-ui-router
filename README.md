@@ -7,9 +7,9 @@ See the original here: https://github.com/angular/angular-seed
 
 # install:
 
-	git clone https://github.com/jerbes/angular-seed.git
+	git clone https://github.com/jerbes/angular-seed-ui-router.git
 
-	cd angular-seed/
+	cd angular-seed-ui-router/
 
 	nvm use 0.10.32
 
